@@ -1,0 +1,8 @@
+C:\Users\13724\项目\meteor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\13724\项目\meteor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\13724\项目\meteor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\13724\项目\meteor\ConsoleApp1\ConsoleApp1\bin\Debug\ClientDownloadTool.exe.config
+C:\Users\13724\项目\meteor\ConsoleApp1\ConsoleApp1\bin\Debug\ClientDownloadTool.exe
+C:\Users\13724\项目\meteor\ConsoleApp1\ConsoleApp1\bin\Debug\ClientDownloadTool.pdb
+C:\Users\13724\项目\meteor\ConsoleApp1\ConsoleApp1\obj\Debug\ClientDownloadTool.exe
+C:\Users\13724\项目\meteor\ConsoleApp1\ConsoleApp1\obj\Debug\ClientDownloadTool.pdb
