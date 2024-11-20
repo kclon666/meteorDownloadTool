@@ -9,8 +9,7 @@ namespace MinecraftDownloader
     class Program
     {
         static async Task Main(string[] args)
-        {
-            A:
+        { 
             Console.WriteLine("2024/11/20/19.37.28我找萨比AI写的萨比C#程序(原python)\r\n致敬大佬,顶针  dingzhen-vape \r\nhttps://github.com/dingzhen-vape");
             Console.WriteLine(" ");
             Console.WriteLine("如果下载速度慢,请使用github的加速 or vpn");
@@ -49,9 +48,7 @@ namespace MinecraftDownloader
             {
                 Console.WriteLine("发生错误: " + ex.Message);
             }
-            goto A;
         } 
-
         static async Task SaveFileAsync(HttpContent content, string fileName)
         {
             using (FileStream fileStream = new FileStream(fileName, FileMode.Create, FileAccess.Write))
